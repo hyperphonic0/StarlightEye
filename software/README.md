@@ -18,7 +18,7 @@ IRFilter --enable
 ```
 To disable IR filter:
 ```
-IRFilter --enable
+IRFilter --disable
 ```
 
 ## Support
